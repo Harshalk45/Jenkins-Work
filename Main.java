@@ -8,5 +8,9 @@ public class Main{
         System.out.println(new Date());
         System.out.println("hello");
         System.out.println("Harshal");
+
+        Student  student = new Student();
+        student.sayHello();
      }
+
 }
